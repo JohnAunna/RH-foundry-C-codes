@@ -1,4 +1,4 @@
-//Drag& lift &Virtual mass force and k & epsilon sources  in VOF designed by hamid    2014/09/11-evening												
+//Drag& lift &Virtual mass force and k & epsilon sources  in VOF designed by John Aunna    2014/09/11-evening												
 
 #include "udf.h"
 																											
